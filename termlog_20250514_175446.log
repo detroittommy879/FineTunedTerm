@@ -1,0 +1,16 @@
+2025-05-14 17:54:47,108 [INFO] [term4.py:214] - [Term1] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 17:54:47,114 [INFO] [term4.py:223] - [Term1] Shell started successfully.
+2025-05-14 17:54:47,118 [INFO] [term4.py:214] - [Term2] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 17:54:47,122 [INFO] [term4.py:223] - [Term2] Shell started successfully.
+2025-05-14 17:54:47,126 [DEBUG] [term4.py:292] - [Term2] Focus In Event
+2025-05-14 17:54:47,126 [DEBUG] [term4.py:379] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 17:54:52,912 [INFO] [term4.py:574] - MainWindow close event. Closing all terminals.
+2025-05-14 17:54:52,913 [INFO] [term4.py:456] - Closing terminal: Term1
+2025-05-14 17:54:52,913 [INFO] [term4.py:284] - [Term1] Close event received. Killing process.
+2025-05-14 17:54:52,915 [ERROR] [term4.py:185] - [Term1] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:54:53,134 [INFO] [term4.py:238] - [Term1] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit
+2025-05-14 17:54:53,137 [DEBUG] [term4.py:453] - Closed terminal Term2 was last focused. Resetting last_focused_terminal.
+2025-05-14 17:54:53,137 [INFO] [term4.py:456] - Closing terminal: Term2
+2025-05-14 17:54:53,137 [INFO] [term4.py:284] - [Term2] Close event received. Killing process.
+2025-05-14 17:54:53,139 [ERROR] [term4.py:185] - [Term2] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:54:53,140 [INFO] [term4.py:238] - [Term2] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit

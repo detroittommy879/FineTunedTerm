@@ -1,0 +1,54 @@
+2025-05-14 18:01:15,983 [INFO] [term6.py:599] - Settings loaded from T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 18:01:16,050 [INFO] [term6.py:283] - [Term1] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 18:01:16,055 [INFO] [term6.py:292] - [Term1] Shell started successfully.
+2025-05-14 18:01:16,059 [INFO] [term6.py:283] - [Term2] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 18:01:16,064 [INFO] [term6.py:292] - [Term2] Shell started successfully.
+2025-05-14 18:01:16,066 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:01:16,066 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:01:30,181 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:01:30,181 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:01:43,064 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:01:43,065 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:01:43,067 [INFO] [term6.py:629] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 18:01:43,067 [INFO] [term6.py:642] - Font changed to: 8514oem 12pt
+2025-05-14 18:01:48,552 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:01:48,552 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:01:56,369 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:01:56,370 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:01:56,376 [INFO] [term6.py:629] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 18:01:56,376 [INFO] [term6.py:642] - Font changed to: Cascadia Code 10pt
+2025-05-14 18:02:09,434 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:02:09,434 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:02:25,960 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:02:25,960 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:13:07,636 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:13:07,636 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:13:07,638 [INFO] [term6.py:629] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 18:13:07,638 [INFO] [term6.py:654] - Preset commands updated.
+2025-05-14 18:13:41,083 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:13:41,083 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:14:04,242 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:14:04,243 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:14:04,670 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:14:04,670 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:14:09,372 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:14:09,372 [INFO] [term6.py:894] - Sending preset command 'ssh -i /c/Users/Basic/.ssh/oracle-amp.key ubuntu@193.122.157.24' to Term1
+2025-05-14 18:14:09,372 [DEBUG] [term6.py:394] - [Term1] Sent command: ssh -i /c/Users/Basic/.ssh/oracle-amp.key ubuntu@193.122.157.24
+2025-05-14 18:14:09,373 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:14:09,373 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:14:47,733 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:14:47,733 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:14:50,976 [DEBUG] [term6.py:413] - [Term1] Focus In Event
+2025-05-14 18:14:50,976 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 18:15:00,425 [INFO] [term6.py:903] - MainWindow close event. Closing all terminals.
+2025-05-14 18:15:00,426 [INFO] [term6.py:629] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 18:15:00,426 [INFO] [term6.py:748] - Closing terminal: Term1
+2025-05-14 18:15:00,426 [INFO] [term6.py:405] - [Term1] Close event received. Killing process.
+2025-05-14 18:15:00,429 [ERROR] [term6.py:247] - [Term1] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 18:15:00,431 [INFO] [term6.py:307] - [Term1] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit
+2025-05-14 18:15:00,436 [DEBUG] [term6.py:413] - [Term2] Focus In Event
+2025-05-14 18:15:00,436 [DEBUG] [term6.py:688] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 18:15:00,437 [INFO] [term6.py:748] - Closing terminal: Term2
+2025-05-14 18:15:00,437 [INFO] [term6.py:405] - [Term2] Close event received. Killing process.
+2025-05-14 18:15:00,438 [ERROR] [term6.py:247] - [Term2] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 18:15:00,439 [INFO] [term6.py:307] - [Term2] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit

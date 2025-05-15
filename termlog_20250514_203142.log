@@ -1,0 +1,16 @@
+2025-05-14 20:31:42,193 [INFO] [term7.py:511] - Settings loaded from T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 20:31:42,288 [DEBUG] [term7.py:235] - [Term1] Wrapping bash in winpty: .\winpty.EXE C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 20:31:42,288 [INFO] [term7.py:239] - [Term1] Starting shell: .\winpty.EXE C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 20:31:42,341 [INFO] [term7.py:248] - [Term1] Shell started successfully.
+2025-05-14 20:31:42,346 [DEBUG] [term7.py:235] - [Term2] Wrapping bash in winpty: .\winpty.EXE C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 20:31:42,347 [INFO] [term7.py:239] - [Term2] Starting shell: .\winpty.EXE C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 20:31:42,351 [INFO] [term7.py:248] - [Term2] Shell started successfully.
+2025-05-14 20:31:42,354 [DEBUG] [term7.py:600] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 20:31:42,517 [INFO] [term7.py:264] - [Term1] Process finished: 1, ExitStatus.NormalExit
+2025-05-14 20:31:42,526 [INFO] [term7.py:264] - [Term2] Process finished: 1, ExitStatus.NormalExit
+2025-05-14 20:31:55,964 [DEBUG] [term7.py:600] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 20:31:56,930 [INFO] [term7.py:815] - MainWindow close event. Closing all terminals.
+2025-05-14 20:31:56,930 [INFO] [term7.py:541] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 20:31:56,931 [INFO] [term7.py:660] - Closing terminal: Term1
+2025-05-14 20:31:56,935 [DEBUG] [term7.py:600] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 20:31:56,935 [INFO] [term7.py:660] - Closing terminal: Term2

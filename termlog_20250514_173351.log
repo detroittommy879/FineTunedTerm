@@ -1,0 +1,22 @@
+2025-05-14 17:33:51,724 [INFO] [term4.py:214] - [Term1] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 17:33:51,728 [INFO] [term4.py:223] - [Term1] Shell started successfully.
+2025-05-14 17:33:51,733 [INFO] [term4.py:214] - [Term2] Starting shell: C:\Program Files\Git\usr\bin\bash.EXE --login -i
+2025-05-14 17:33:51,736 [INFO] [term4.py:223] - [Term2] Shell started successfully.
+2025-05-14 17:33:51,739 [DEBUG] [term4.py:292] - [Term2] Focus In Event
+2025-05-14 17:33:51,739 [DEBUG] [term4.py:379] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 17:33:54,000 [DEBUG] [term4.py:292] - [Term1] Focus In Event
+2025-05-14 17:33:54,000 [DEBUG] [term4.py:379] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 17:33:56,289 [DEBUG] [term4.py:292] - [Term1] Focus In Event
+2025-05-14 17:33:56,289 [DEBUG] [term4.py:379] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 17:42:15,045 [DEBUG] [term4.py:292] - [Term1] Focus In Event
+2025-05-14 17:42:15,046 [DEBUG] [term4.py:379] - MainWindow: Last focused terminal updated to Term1
+2025-05-14 17:42:16,353 [INFO] [term4.py:574] - MainWindow close event. Closing all terminals.
+2025-05-14 17:42:16,353 [DEBUG] [term4.py:453] - Closed terminal Term1 was last focused. Resetting last_focused_terminal.
+2025-05-14 17:42:16,353 [INFO] [term4.py:456] - Closing terminal: Term1
+2025-05-14 17:42:16,354 [INFO] [term4.py:284] - [Term1] Close event received. Killing process.
+2025-05-14 17:42:16,355 [ERROR] [term4.py:185] - [Term1] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:42:16,759 [INFO] [term4.py:238] - [Term1] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit
+2025-05-14 17:42:16,762 [INFO] [term4.py:456] - Closing terminal: Term2
+2025-05-14 17:42:16,762 [INFO] [term4.py:284] - [Term2] Close event received. Killing process.
+2025-05-14 17:42:16,763 [ERROR] [term4.py:185] - [Term2] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:42:16,764 [INFO] [term4.py:238] - [Term2] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit

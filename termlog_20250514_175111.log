@@ -1,0 +1,19 @@
+2025-05-14 17:51:11,515 [INFO] [term5.py:528] - Settings loaded from T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 17:51:11,609 [INFO] [term5.py:242] - [Term1] Prioritizing WSL with bash.
+2025-05-14 17:51:11,609 [INFO] [term5.py:259] - [Term1] Starting shell: C:\windows\system32\wsl.exe -e bash --login -i
+2025-05-14 17:51:11,614 [INFO] [term5.py:268] - [Term1] Shell started successfully.
+2025-05-14 17:51:11,619 [INFO] [term5.py:242] - [Term2] Prioritizing WSL with bash.
+2025-05-14 17:51:11,620 [INFO] [term5.py:259] - [Term2] Starting shell: C:\windows\system32\wsl.exe -e bash --login -i
+2025-05-14 17:51:11,623 [INFO] [term5.py:268] - [Term2] Shell started successfully.
+2025-05-14 17:51:11,626 [DEBUG] [term5.py:336] - [Term2] Focus In Event
+2025-05-14 17:51:11,626 [DEBUG] [term5.py:615] - MainWindow: Last focused terminal updated to Term2
+2025-05-14 17:51:18,919 [INFO] [term5.py:754] - MainWindow close event. Closing all terminals.
+2025-05-14 17:51:18,920 [INFO] [term5.py:559] - Settings saved to T:\z-test1\termbuttons\term_enhanced_settings.json
+2025-05-14 17:51:18,920 [INFO] [term5.py:667] - Closing terminal: Term1
+2025-05-14 17:51:18,920 [INFO] [term5.py:328] - [Term1] Close event received. Killing process.
+2025-05-14 17:51:18,922 [ERROR] [term5.py:214] - [Term1] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:51:19,137 [INFO] [term5.py:282] - [Term1] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit
+2025-05-14 17:51:19,140 [INFO] [term5.py:667] - Closing terminal: Term2
+2025-05-14 17:51:19,140 [INFO] [term5.py:328] - [Term2] Close event received. Killing process.
+2025-05-14 17:51:19,141 [ERROR] [term5.py:214] - [Term2] Process error: Process crashed (code: ProcessError.Crashed)
+2025-05-14 17:51:19,142 [INFO] [term5.py:282] - [Term2] Process finished. ExitCode: 62097, Status: ExitStatus.CrashExit
